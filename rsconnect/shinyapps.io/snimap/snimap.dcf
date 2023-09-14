@@ -1,0 +1,12 @@
+name: snimap
+title: snimap
+username: snimap
+account: snimap
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9867958
+bundleId: 7684728
+url: https://snimap.shinyapps.io/snimap/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
